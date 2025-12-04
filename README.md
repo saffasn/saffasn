@@ -8,8 +8,8 @@
 
 ```js
 const saffa = {
-  favDrink: " iced matcha latte 🍵 ",
-  loves: [" UI/UX design", "traveling", "data storytelling", "engineering mindset "],
+  favDrink: "iced matcha 🍵",
+  loves: ["UI/UX design", "traveling", "data storytelling", "engineering mindset "],
   currentlyLearning: [
     "advanced analytics",
     "cleaner interface flow",
