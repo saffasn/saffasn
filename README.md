@@ -1,20 +1,24 @@
-**🌿 Saffasn 🌿**
+# 🌿 **Saffasn** 🌿
 
-Data Analyst • UI/UX Designer • Engineering Enthusiast • Matcha-Powered Traveler
+<p align="center">
+  <strong>Data Analyst • UI/UX Designer • Engineering Enthusiast • Matcha-Powered Traveler</strong>
+</p>
 
 
 **🌸 About Me**
 
+```js
 const saffa = {
   favDrink: "iced matcha latte 🍵",
-  loves: [" UI/UX design ", " traveling ", " data storytelling ", " engineering mindset "],
+  loves: ["UI/UX design", "traveling", "data storytelling", "engineering mindset"],
   currentlyLearning: [
-    " advanced analytics ",
-    " cleaner interface flow ",
-    " building smoother user experiences "
+    "advanced analytics",
+    "cleaner interface flow",
+    "building smoother user experiences"
   ],
-  mood: " creating meaningful things with calm energy & soft green aesthetics ✨ "
+  mood: "creating meaningful things with calm energy & soft green aesthetics ✨"
 }
+```
 
 📊 A Data Analyst who turns messy information into meaningful, useful stories.
 
