@@ -5,13 +5,19 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=23&color=7FB77E&center=true&vCenter=true&width=550&lines=Saffanah+Shofwatun+Nisa;Data+Analyst;UI%2FUX+Designer;Engineering+Enthusiast;Matcha+Lover+🍵" />
+  <a href="https://github.com/saffasn">
+    <img 
+      src="https://readme-typing-svg.demolab.com?size=23&duration=2000&pause=1000&color=7FB77E&center=true&vCenter=true&width=550&lines=Saffanah+Shofwatun+Nisa;Data+Analyst;UI%2FUX+Designer;Engineering+Enthusiast;Matcha+Lover+🍵" 
+      alt="Typing SVG" 
+    />
+  </a>
 </p>
 
 <!-- Gradient divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/green.png" width="70%" />
 </p>
+
 
 <h2 align>🌸 About Me</h2>
 
@@ -75,10 +81,12 @@ I enjoy keeping things simple, intentional, and easy to understand.
 ✨ Believes good design starts with empathy
 
 
-<h2 align>📊 GitHub Stats (Matcha Edition)</h2> 
+<h2 align="center">📊 GitHub Snapshot</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saffasn&show_icons=true&theme=calm&title_color=6A8E7F&icon_color=6A8E7F&text_color=2F3E46&bg_color=ffffff" width="60%"/>
+  <img src="https://img.shields.io/github/followers/saffasn?label=Followers&style=for-the-badge&color=7FB77E" />
+  <img src="https://img.shields.io/github/stars/saffasn?label=Stars&style=for-the-badge&color=88C273" />
 </p>
+
 
 
 <h2 align>🤝 Let’s Be Friends!</h2>
