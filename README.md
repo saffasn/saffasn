@@ -30,6 +30,7 @@ const saffa = {
 ##
 
 <p align><strong>🧰 My Sparkly Tech Stack</strong></p>
+
 | **Area**           | **Tools**                     |
 | ------------------ | ----------------------------- |
 | **Front-End**      | HTML · CSS · Bootstrap · Java |
