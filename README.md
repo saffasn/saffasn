@@ -5,7 +5,7 @@
 </p>
 
 
-##🌸 About Me
+## 🌸 About Me
 
 ```js
 const saffa = {
@@ -29,7 +29,7 @@ const saffa = {
 ✈️ Finds creativity in traveling, exploring new spaces, and enjoying matcha latte.
 
 
-##🧰 My Sparkly Tech Stack
+## 🧰 My Sparkly Tech Stack
 | **Area**           | **Tools**                     |
 | ------------------ | ----------------------------- |
 | **Front-End**      | HTML · CSS · Bootstrap · Java |
@@ -41,7 +41,7 @@ Whether it’s designing cleaner interfaces or building structured datasets,
 I enjoy keeping things simple, intentional, and easy to understand.
 
 
-##📦 Things I Love to Build
+## 📦 Things I Love to Build
 
 📈 Dashboards that are both aesthetic and actionable.
 
@@ -52,7 +52,7 @@ I enjoy keeping things simple, intentional, and easy to understand.
 🌱 Projects that combine design, logic, and purpose into useful experiences.
 
 
-##🤝 Let’s Be Friends!
+## 🤝 Let’s Be Friends!
 
 🏡 Portfolio: https://saffasn.github.io/Portofolio-saffasn/
 
