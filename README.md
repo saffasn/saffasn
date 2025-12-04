@@ -4,7 +4,7 @@
 </p>
 
 <!-- Typing animation --> 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=23&color=7FB77E&center=true&vCenter=true&width=550&lines=Saffanah+Shofwatun+Nisa;Data+Analyst;UI%2FUX+Designer;Engineering+Enthusiast;Matcha+Lover+🍵" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=23&color=7FB77E&center=true&vCenter=true&width=550&lines=Data+Analyst;UI%2FUX+Designer;Engineering+Enthusiast;Matcha+Lover+🍵" /> </p>
 
 
 <h2 align>🌸 About Me</h2>
