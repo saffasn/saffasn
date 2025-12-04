@@ -1,15 +1,24 @@
-# <p align="center">🌿 **Saffanah Shofwatun Nisa** 🌿</p>
+<h1 align="center">🌿 <strong>Saffanah Shofwatun Nisa</strong> 🌿</h1>
+<p align="center">
+  <strong>Data Analyst • UI/UX Designer • Engineering Enthusiast • Matcha-Powered Traveler</strong>
+</p>
 
-<p align="center"><strong>Data Analyst • UI/UX Designer • Engineering Enthusiast • Matcha - Powered Traveler</strong></p>
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=23&color=7FB77E&center=true&vCenter=true&width=550&lines=Saffanah+Shofwatun+Nisa;Data+Analyst;UI%2FUX+Designer;Engineering+Enthusiast;Matcha+Lover+🍵" />
+</p>
 
-## 
+<!-- Gradient divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/green.png" width="70%" />
+</p>
 
-<p align><strong>🌸 About Me</strong></p>
+<h2 align="center">🌸 About Me</h2>
 
 ```js
 const saffa = {
   favDrink: "iced matcha 🍵",
-  loves: ["UI/UX design", "traveling", "data storytelling", "engineering mindset "],
+  loves: ["UI/UX design", "traveling", "data storytelling", "engineering mindset"],
   currentlyLearning: [
     "advanced analytics",
     "cleaner interface flow",
@@ -17,7 +26,6 @@ const saffa = {
   ],
   mood: "creating meaningful things with calm energy & soft green aesthetics ✨"
 }
-```
 
 📊 A Data Analyst who turns messy information into meaningful, useful stories.
 
@@ -29,7 +37,7 @@ const saffa = {
 
 ##
 
-<p align><strong>🧰 My Sparkly Tech Stack</strong></p>
+<h2 align="center">🧰 My Sparkly Tech Stack</h2>
 
 | **Area**           | **Tools**                     |
 | ------------------ | ----------------------------- |
@@ -43,7 +51,7 @@ I enjoy keeping things simple, intentional, and easy to understand.
 
 ##
 
-<p align><strong>📦 Things I Love to Build</strong></p>
+<h2 align="center">📦 Things I Love to Build</h2>
 
 📈 Dashboards that are both aesthetic and actionable.
 
@@ -53,9 +61,31 @@ I enjoy keeping things simple, intentional, and easy to understand.
 
 🌱 Projects that combine design, logic, and purpose into useful experiences.
 
+##
+
+<h2 align="center">🌱 Life Vibes</h2>
+
+🍵 Powered by iced matcha
+
+✈️ Finds inspiration while traveling
+
+🎨 Obsessed with clean UI & soft color palettes
+
+🧊 Minimalist aesthetic lover
+
+✨ Believes good design starts with empathy
+
+##
+
+<h2 align="center">🍵 Matcha Mood Board</h2> <p align="center"> <img src="https://i.imgur.com/54w7nYt.png" width="260" /> <img src="https://i.imgur.com/jOqP2jT.jpeg" width="260" /> <img src="https://i.imgur.com/vcftxgF.jpeg" width="260" /> </p> <!-- Note: you can replace the image URLs above with your own matcha / travel / UI aesthetic images -->
+
+##
+
+<h2 align="center">📊 GitHub Stats (Matcha Edition)</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saffasn&show_icons=true&theme=calm&title_color=6A8E7F&icon_color=6A8E7F&text_color=2F3E46&bg_color=ffffff" width="60%"/> </p>
+
 ## 
 
-<p align><strong>🤝 Let’s Be Friends!</strong></p>
+<h2 align="center">🤝 Let’s Be Friends!</h2>
 
 🏡 Portfolio: https://saffasn.github.io/Portofolio-saffasn/
 
@@ -66,4 +96,4 @@ I love meaningful conversations over a cup of matcha 🍵
 
 ## 
 
-<p align><strong> Made with 💚 matcha latte, curiosity, and a little chaos — because good things are built one calm step at a time. </strong></p>
+<p align="center"> <em>"Design with intention. Build with clarity. Grow with matcha." 🍵</em> </p> <p align="center"> <strong>Made with 💚 matcha latte, curiosity, and a little chaos —<br/> because good things are built one calm step at a time.</strong> </p>
