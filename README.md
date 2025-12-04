@@ -69,12 +69,15 @@ I enjoy keeping things simple, intentional, and easy to understand.
 ✨ Believes good design starts with empathy
 
 
-<h2 align="center">📊 GitHub Snapshot</h2>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/saffasn?label=Followers&style=for-the-badge&color=7FB77E" />
-  <img src="https://img.shields.io/github/stars/saffasn?label=Stars&style=for-the-badge&color=88C273" />
-</p>
+<h2 align>📊 GitHub Stats (Matcha Edition)</h2>
 
+<p align>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=saffasn&show_icons=true&theme=calm&title_color=6A8E7F&icon_color=6A8E7F&text_color=2F3E46&bg_color=ffffff" 
+    width="60%" 
+    alt="Saffasn GitHub Stats"
+  />
+</p>
 
 
 <h2 align>🤝 Let’s Be Friends!</h2>
