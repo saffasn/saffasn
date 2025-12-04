@@ -29,7 +29,7 @@ const saffa = {
 
 ##
 
-🧰 My Sparkly Tech Stack
+<p align><strong>🧰 My Sparkly Tech Stack</strong></p>
 | **Area**           | **Tools**                     |
 | ------------------ | ----------------------------- |
 | **Front-End**      | HTML · CSS · Bootstrap · Java |
@@ -42,7 +42,7 @@ I enjoy keeping things simple, intentional, and easy to understand.
 
 ##
 
-📦 Things I Love to Build
+<p align><strong>📦 Things I Love to Build</strong></p>
 
 📈 Dashboards that are both aesthetic and actionable.
 
@@ -54,7 +54,7 @@ I enjoy keeping things simple, intentional, and easy to understand.
 
 ## 
 
-🤝 Let’s Be Friends!
+<p align><strong>🤝 Let’s Be Friends!</strong></p>
 
 🏡 Portfolio: https://saffasn.github.io/Portofolio-saffasn/
 
