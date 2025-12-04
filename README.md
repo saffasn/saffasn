@@ -3,7 +3,6 @@
 <p align="center"><strong>Data Analyst • UI/UX Designer • Engineering Enthusiast • Matcha - Powered Traveler</strong></p>
 
 
-
 ## 🌸 About Me
 
 ```js
@@ -28,7 +27,6 @@ const saffa = {
 ✈️ Finds creativity in traveling, exploring new spaces, and enjoying matcha latte.
 
 
-
 ## 🧰 My Sparkly Tech Stack
 | **Area**           | **Tools**                     |
 | ------------------ | ----------------------------- |
@@ -39,7 +37,6 @@ const saffa = {
 
 Whether it’s designing cleaner interfaces or building structured datasets,
 I enjoy keeping things simple, intentional, and easy to understand.
-
 
 
 ## 📦 Things I Love to Build
@@ -53,7 +50,6 @@ I enjoy keeping things simple, intentional, and easy to understand.
 🌱 Projects that combine design, logic, and purpose into useful experiences.
 
 
-
 ## 🤝 Let’s Be Friends!
 
 🏡 Portfolio: https://saffasn.github.io/Portofolio-saffasn/
@@ -63,6 +59,6 @@ I enjoy keeping things simple, intentional, and easy to understand.
 Feel free to reach out if you want to talk about UI/UX, data, dashboards, or fun engineering ideas —
 I love meaningful conversations over a cup of matcha 🍵
 
+## 
 
-
-<strong>Made with 💚 matcha latte, curiosity, and a little chaos because good things are built one calm step at a time.</strong>
+<p align="center"><strong> Made with 💚 matcha latte, curiosity, and a little chaos — because good things are built one calm step at a time. </strong></p>
