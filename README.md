@@ -1,6 +1,6 @@
-# <p align="center">🌿 **Saffasn** 🌿</p>
+# <p align="center">🌿 **Saffanah Shofwatun Nisa** 🌿</p>
 
-<p align="center"><strong>Data Analyst • UI/UX Designer • Engineering Enthusiast • Matcha-Powered Traveler</strong></p>
+<p align="center"><strong>Data Analyst • UI/UX Designer • Engineering Enthusiast • Matcha - Powered Traveler</strong></p>
 
 
 
@@ -8,8 +8,8 @@
 
 ```js
 const saffa = {
-  favDrink: "iced matcha latte 🍵",
-  loves: ["UI/UX design", "traveling", "data storytelling", "engineering mindset"],
+  favDrink: " iced matcha latte 🍵 ",
+  loves: [" UI/UX design", "traveling", "data storytelling", "engineering mindset "],
   currentlyLearning: [
     "advanced analytics",
     "cleaner interface flow",
@@ -65,6 +65,4 @@ I love meaningful conversations over a cup of matcha 🍵
 
 
 
-
-
-**Made with 💚 matcha latte, curiosity, and a little chaos because good things are built one calm step at a time.**
+## **Made with 💚 matcha latte, curiosity, and a little chaos because good things are built one calm step at a time.**
