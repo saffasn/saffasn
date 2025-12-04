@@ -15,9 +15,9 @@
 
 <h2 align>🌸 About Me</h2>
 
-'''js
+```js
 const saffa = {
-  favDrink: "iced matcha 🍵",
+  favDrink: "iced matcha latte 🍵",
   loves: ["UI/UX design", "traveling", "data storytelling", "engineering mindset"],
   currentlyLearning: [
     "advanced analytics",
@@ -26,6 +26,8 @@ const saffa = {
   ],
   mood: "creating meaningful things with calm energy & soft green aesthetics ✨"
 }
+```
+
 
 📊 A Data Analyst who turns messy information into meaningful, useful stories.
 
@@ -73,11 +75,10 @@ I enjoy keeping things simple, intentional, and easy to understand.
 ✨ Believes good design starts with empathy
 
 
-<h2 align>🍵 Matcha Mood Board</h2> <p align="center"> <img src="https://i.imgur.com/54w7nYt.png" width="260" /> <img src="https://i.imgur.com/jOqP2jT.jpeg" width="260" /> <img src="https://i.imgur.com/vcftxgF.jpeg" width="260" /> </p> <!-- Note: you can replace the image URLs above with your own matcha / travel / UI aesthetic images -->
-
-
 <h2 align>📊 GitHub Stats (Matcha Edition)</h2> 
-<p align> <img src="https://github-readme-stats.vercel.app/api?username=saffasn&show_icons=true&theme=calm&title_color=6A8E7F&icon_color=6A8E7F&text_color=2F3E46&bg_color=ffffff" width="60%"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saffasn&show_icons=true&theme=calm&title_color=6A8E7F&icon_color=6A8E7F&text_color=2F3E46&bg_color=ffffff" width="60%"/>
+</p>
 
 
 <h2 align>🤝 Let’s Be Friends!</h2>
