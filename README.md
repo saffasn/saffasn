@@ -69,15 +69,16 @@ I enjoy keeping things simple, intentional, and easy to understand.
 ✨ Believes good design starts with empathy
 
 
-<h2 align>📊 GitHub Stats (Matcha Edition)</h2>
+<h2 align>📊 GitHub Stats (Matcha Edition)</h2> 
 
 <p align>
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=saffasn&show_icons=true&theme=calm&title_color=6A8E7F&icon_color=6A8E7F&text_color=2F3E46&bg_color=ffffff" 
-    width="60%" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saffasn&show_icons=true&hide_rank=false&cache_seconds=1800&theme=calm&title_color=6A8E7F&icon_color=6A8E7F&text_color=2F3E46&bg_color=ffffff"
     alt="Saffasn GitHub Stats"
+    width="60%"
   />
 </p>
+
 
 
 <h2 align>🤝 Let’s Be Friends!</h2>
