@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/green.png" width="70%" />
 </p>
 
-<h2 align="center">🌸 About Me</h2>
+<h2 align>🌸 About Me</h2>
 
 '''js
 const saffa = {
@@ -25,7 +25,7 @@ const saffa = {
     "building smoother user experiences"
   ],
   mood: "creating meaningful things with calm energy & soft green aesthetics ✨"
-}'''
+}
 
 📊 A Data Analyst who turns messy information into meaningful, useful stories.
 
@@ -35,9 +35,8 @@ const saffa = {
 
 ✈️ Finds creativity in traveling, exploring new spaces, and enjoying matcha latte.
 
-##
 
-<h2 align="center">🧰 My Sparkly Tech Stack</h2>
+<h2 align>🧰 My Sparkly Tech Stack</h2>
 
 | **Area**           | **Tools**                     |
 | ------------------ | ----------------------------- |
@@ -49,9 +48,8 @@ const saffa = {
 Whether it’s designing cleaner interfaces or building structured datasets,
 I enjoy keeping things simple, intentional, and easy to understand.
 
-##
 
-<h2 align="center">📦 Things I Love to Build</h2>
+<h2 align>📦 Things I Love to Build</h2>
 
 📈 Dashboards that are both aesthetic and actionable.
 
@@ -61,9 +59,8 @@ I enjoy keeping things simple, intentional, and easy to understand.
 
 🌱 Projects that combine design, logic, and purpose into useful experiences.
 
-##
 
-<h2 align="center">🌱 Life Vibes</h2>
+<h2 align>🌱 Life Vibes</h2>
 
 🍵 Powered by iced matcha
 
@@ -75,17 +72,15 @@ I enjoy keeping things simple, intentional, and easy to understand.
 
 ✨ Believes good design starts with empathy
 
-##
 
-<h2 align="center">🍵 Matcha Mood Board</h2> <p align="center"> <img src="https://i.imgur.com/54w7nYt.png" width="260" /> <img src="https://i.imgur.com/jOqP2jT.jpeg" width="260" /> <img src="https://i.imgur.com/vcftxgF.jpeg" width="260" /> </p> <!-- Note: you can replace the image URLs above with your own matcha / travel / UI aesthetic images -->
+<h2 align>🍵 Matcha Mood Board</h2> <p align="center"> <img src="https://i.imgur.com/54w7nYt.png" width="260" /> <img src="https://i.imgur.com/jOqP2jT.jpeg" width="260" /> <img src="https://i.imgur.com/vcftxgF.jpeg" width="260" /> </p> <!-- Note: you can replace the image URLs above with your own matcha / travel / UI aesthetic images -->
 
-##
 
-<h2 align="center">📊 GitHub Stats (Matcha Edition)</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saffasn&show_icons=true&theme=calm&title_color=6A8E7F&icon_color=6A8E7F&text_color=2F3E46&bg_color=ffffff" width="60%"/> </p>
+<h2 align>📊 GitHub Stats (Matcha Edition)</h2> 
+<p align> <img src="https://github-readme-stats.vercel.app/api?username=saffasn&show_icons=true&theme=calm&title_color=6A8E7F&icon_color=6A8E7F&text_color=2F3E46&bg_color=ffffff" width="60%"/> </p>
 
-## 
 
-<h2 align="center">🤝 Let’s Be Friends!</h2>
+<h2 align>🤝 Let’s Be Friends!</h2>
 
 🏡 Portfolio: https://saffasn.github.io/Portofolio-saffasn/
 
@@ -96,4 +91,4 @@ I love meaningful conversations over a cup of matcha 🍵
 
 ## 
 
-<p align="center"> <em>"Design with intention. Build with clarity. Grow with matcha." 🍵</em> </p> <p align="center"> <strong>Made with 💚 matcha latte, curiosity, and a little chaos —<br/> because good things are built one calm step at a time.</strong> </p>
+<p align> <em>"Design with intention. Build with clarity. Grow with matcha." 🍵</em> </p> <p align> <strong>Made with 💚 matcha latte, curiosity, and a little chaos because good things are built one calm step at a time.</strong> </p>
