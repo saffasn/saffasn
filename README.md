@@ -1,18 +1,19 @@
-🌿 Saffasn 🌿
+**🌿 Saffasn 🌿**
 
 Data Analyst • UI/UX Designer • Engineering Enthusiast • Matcha-Powered Traveler
 
-🌸 About Me
+
+**🌸 About Me**
 
 const saffa = {
   favDrink: "iced matcha latte 🍵",
-  loves: ["UI/UX design", "traveling", "data storytelling", "engineering mindset"],
+  loves: [" UI/UX design ", " traveling ", " data storytelling ", " engineering mindset "],
   currentlyLearning: [
-    "advanced analytics",
-    "cleaner interface flow",
-    "building smoother user experiences"
+    " advanced analytics ",
+    " cleaner interface flow ",
+    " building smoother user experiences "
   ],
-  mood: "creating meaningful things with calm energy & soft green aesthetics ✨"
+  mood: " creating meaningful things with calm energy & soft green aesthetics ✨ "
 }
 
 📊 A Data Analyst who turns messy information into meaningful, useful stories.
@@ -24,7 +25,7 @@ const saffa = {
 ✈️ Finds creativity in traveling, exploring new spaces, and enjoying matcha latte.
 
 
-🧰 My Sparkly Tech Stack
+**🧰 My Sparkly Tech Stack**
 | **Area**           | **Tools**                     |
 | ------------------ | ----------------------------- |
 | **Front-End**      | HTML · CSS · Bootstrap · Java |
@@ -36,7 +37,7 @@ Whether it’s designing cleaner interfaces or building structured datasets,
 I enjoy keeping things simple, intentional, and easy to understand.
 
 
-📦 Things I Love to Build
+**📦 Things I Love to Build**
 
 📈 Dashboards that are both aesthetic and actionable.
 
@@ -47,13 +48,11 @@ I enjoy keeping things simple, intentional, and easy to understand.
 🌱 Projects that combine design, logic, and purpose into useful experiences.
 
 
-🤝 Let’s Be Friends!
+**🤝 Let’s Be Friends!**
 
-🏡 Portfolio:
-https://saffasn.github.io/Portofolio-saffasn/
+🏡 Portfolio: https://saffasn.github.io/Portofolio-saffasn/
 
-📧 Email:
-saffasn03@gmail.com
+📧 Email: saffasn03@gmail.com
 
 Feel free to reach out if you want to talk about UI/UX, data, dashboards, or fun engineering ideas —
 I love meaningful conversations over a cup of matcha 🍵
