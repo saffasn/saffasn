@@ -15,7 +15,7 @@
 
 <h2 align="center">🌸 About Me</h2>
 
-js
+'''js
 const saffa = {
   favDrink: "iced matcha 🍵",
   loves: ["UI/UX design", "traveling", "data storytelling", "engineering mindset"],
@@ -25,7 +25,7 @@ const saffa = {
     "building smoother user experiences"
   ],
   mood: "creating meaningful things with calm energy & soft green aesthetics ✨"
-}
+}'''
 
 📊 A Data Analyst who turns messy information into meaningful, useful stories.
 
