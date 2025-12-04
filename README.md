@@ -1,7 +1,9 @@
 🌿 Saffasn 🌿
+
 Data Analyst • UI/UX Designer • Engineering Enthusiast • Matcha-Powered Traveler
 
 🌸 About Me
+
 const saffa = {
   favDrink: "iced matcha latte 🍵",
   loves: ["UI/UX design", "traveling", "data storytelling", "engineering mindset"],
@@ -21,6 +23,7 @@ const saffa = {
 
 ✈️ Finds creativity in traveling, exploring new spaces, and enjoying matcha latte.
 
+
 🧰 My Sparkly Tech Stack
 | **Area**           | **Tools**                     |
 | ------------------ | ----------------------------- |
@@ -30,6 +33,7 @@ const saffa = {
 | **Design & Tools** | Figma · Tableau · Canva       |
 Whether it’s designing cleaner interfaces or building structured datasets,
 I enjoy keeping things simple, intentional, and easy to understand.
+
 
 📦 Things I Love to Build
 
@@ -41,6 +45,7 @@ I enjoy keeping things simple, intentional, and easy to understand.
 
 🌱 Projects that combine design, logic, and purpose into useful experiences.
 
+
 🤝 Let’s Be Friends!
 
 🏡 Portfolio:
@@ -51,5 +56,6 @@ saffasn03@gmail.com
 
 Feel free to reach out if you want to talk about UI/UX, data, dashboards, or fun engineering ideas —
 I love meaningful conversations over a cup of matcha 🍵
+
 
 <p align="center"> Made with 💚 matcha latte, curiosity, and a little chaos —<br/> because good things are built one calm step at a time. </p>
