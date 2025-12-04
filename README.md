@@ -3,20 +3,8 @@
   <strong>Data Analyst • UI/UX Designer • Engineering Enthusiast • Matcha-Powered Traveler</strong>
 </p>
 
-<!-- Typing animation -->
-<p align="center">
-  <a href="https://github.com/saffasn">
-    <img 
-      src="https://readme-typing-svg.demolab.com?size=23&duration=2000&pause=1000&color=7FB77E&center=true&vCenter=true&width=550&lines=Saffanah+Shofwatun+Nisa;Data+Analyst;UI%2FUX+Designer;Engineering+Enthusiast;Matcha+Lover+🍵" 
-      alt="Typing SVG" 
-    />
-  </a>
-</p>
-
-<!-- Gradient divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/green.png" width="70%" />
-</p>
+<!-- Typing animation --> 
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=23&color=7FB77E&center=true&vCenter=true&width=550&lines=Saffanah+Shofwatun+Nisa;Data+Analyst;UI%2FUX+Designer;Engineering+Enthusiast;Matcha+Lover+🍵" /> </p>
 
 
 <h2 align>🌸 About Me</h2>
