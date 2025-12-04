@@ -31,6 +31,7 @@ const saffa = {
 | **Back-End**       | Python · PHP                  |
 | **Database**       | MySQL · PostgreSQL            |
 | **Design & Tools** | Figma · Tableau · Canva       |
+
 Whether it’s designing cleaner interfaces or building structured datasets,
 I enjoy keeping things simple, intentional, and easy to understand.
 
