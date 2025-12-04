@@ -1,8 +1,8 @@
 # <p align="center">🌿 **Saffasn** 🌿</p>
 
-<p align="center">
+**<p align="center">
   <strong>Data Analyst • UI/UX Designer • Engineering Enthusiast • Matcha-Powered Traveler</strong>
-</p>
+</p>**
 
 
 ## 🌸 About Me
@@ -62,4 +62,4 @@ Feel free to reach out if you want to talk about UI/UX, data, dashboards, or fun
 I love meaningful conversations over a cup of matcha 🍵
 
 
-<p align="center"> Made with 💚 matcha latte, curiosity, and a little chaos —<br/> because good things are built one calm step at a time. </p>
+**Made with 💚 matcha latte, curiosity, and a little chaos because good things are built one calm step at a time.**
