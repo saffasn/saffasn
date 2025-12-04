@@ -1,8 +1,6 @@
 # <p align="center">🌿 **Saffasn** 🌿</p>
 
-<p align="center">
-  **<strong>Data Analyst • UI/UX Designer • Engineering Enthusiast • Matcha-Powered Traveler</strong>**
-</p>
+<p align="center"><strong>Data Analyst • UI/UX Designer • Engineering Enthusiast • Matcha-Powered Traveler</strong></p>
 
 
 ## 🌸 About Me
