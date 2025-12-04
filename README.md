@@ -15,7 +15,7 @@
 
 <h2 align="center">🌸 About Me</h2>
 
-```js
+js
 const saffa = {
   favDrink: "iced matcha 🍵",
   loves: ["UI/UX design", "traveling", "data storytelling", "engineering mindset"],
